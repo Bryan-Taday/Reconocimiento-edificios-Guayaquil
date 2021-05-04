@@ -2,6 +2,14 @@
 <button type="button" onclick="init()">Start</button>
 <div id="webcam-container"></div>
 <div id="label-container"></div>
+<hr>
+<p>Ejemplos:</p>
+<div>
+    <img src="https://bienesraicesec.files.wordpress.com/2016/07/prois3.jpg?w=400" alt="Tornillo" width="400" height="200">
+    <img src="https://www.eluniverso.com/resizer/pHI85Ca-qyapN6FNyvrJAn5qLb4=/456x336/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/eluniverso/OBMZHK65I5EXZHUHOLUV6G3P2M.jpg" alt="Nescafe" width="400" height="200">
+    <img src="https://lh3.googleusercontent.com/-X0PG0SPfVbw/X4fBvxDfkAI/AAAAAAAABX0/28Irna7qL1oi-MYg5tc_MKtm_lDgDcRXACLcBGAsYHQ/image.png" alt="Tornillo" width="400" height="200">
+    <img src="https://laornitorrinco.files.wordpress.com/2016/07/castillo_ala_vedra_cesar_mera.jpg?w=1200" alt="Castillo" width="400" height="200">
+</div>
 <script src="https://cdn.jsdelivr.net/npm/@tensorflow/tfjs@1.3.1/dist/tf.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/@teachablemachine/image@0.8/dist/teachablemachine-image.min.js"></script>
 <script type="text/javascript">
